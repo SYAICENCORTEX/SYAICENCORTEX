@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="./assets/medieval-banner.svg" alt="SYAICEN CORTEX Banner" width="100%" />
+<img src="./assets/medieval-banner.svg" alt="SYAICEN CORTEX — Architect Codex" width="100%" />
 
 <br/>
 
-[![Codex Live](https://img.shields.io/badge/🏛️_Grand_Codex-aggafx.is--a.dev-D4AF37?style=for-the-badge&labelColor=0E1317)](https://aggafx.is-a.dev)
+<img src="./assets/code-typewriter.svg" alt="Terminal Initialization" width="100%" />
+
+<br/>
+
+[![Official Codex Portal](https://img.shields.io/badge/🏛️_Grand_Codex-aggafx.is--a.dev-D4AF37?style=for-the-badge&labelColor=0E1317)](https://aggafx.is-a.dev)
 [![Discord Round Table](https://img.shields.io/badge/⚔️_Guild_Sanctum-Discord_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0E1317)](https://discord.gg/qU4cTcKJp)
 [![Raven Inscribed](https://img.shields.io/badge/✉️_Direct_Inquiry-pancegapp@gmail.com-E2542C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0E1317)](mailto:pancegapp@gmail.com)
 [![Visual Chronicler](https://img.shields.io/badge/📸_Visual_Archive-@agga.fx-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0E1317)](https://instagram.com/agga.fx)
 
 <p align="center">
   <em>« Verba volant, scripta manent. In codice veritas. »</em><br/>
-  <b>Welcome to the Sanctum of SYAICEN CORTEX</b> — The digital archive of application engineering, autonomous automata, and multi-protocol agent systems.
+  <b>Application & Bot Systems Engineer</b> focused on high-concurrency bot infrastructure, focus-driven productivity platforms, and Autonomous AI Agent orchestration.
 </p>
 
 <img src="./assets/medieval-divider.svg" width="100%" />
@@ -20,18 +24,42 @@
 
 <br/>
 
-## ⚜️ Prolegomena • The Architect's Chronicle
+## 👤 Executive Profile & Overview
 
-> *"In eras past, master alchemists transformed base elements into gold upon aged vellum. Today, we forge event loops, socket streams, and autonomous intelligence into resilient digital architecture."*
+I am **Muhamad Yoga Agistian (Agga)**, a software engineer and hardware diagnostician based in Sukabumi, Indonesia. I design and ship production-ready applications, high-throughput community automata, and agentic workflows.
 
-Behind **SYAICEN CORTEX** operates **Muhamad Yoga Agistian (Agga)** — an *Application & Bot Systems Engineer* and *Hardware Diagnostician* based in Sukabumi, Indonesia. Specializing in high-concurrency bot infrastructure (WhatsApp & Discord protocols), cognitive productivity suites, modular web architectures, and state-of-the-art Autonomous AI agent orchestration.
+My engineering philosophy bridges **low-overhead systems design** (raw WebSocket protocols, state machines, and resilient queues) with **human-centric interfaces** (mobile-first ergonomics, distraction-free productivity environments, and interactive AI companions).
+
+- 🔭 **Current Focus:** Scaling autonomous AI workflows, multi-platform bot engines, and cognitive focus systems.
+- ⚡ **Engineering Principles:** Zero fluff, verified execution, resilient failure-recovery, and clean architecture.
+- 🏰 **Digital Sanctum & Portfolio:** [aggafx.is-a.dev](https://aggafx.is-a.dev) *(Mirror: [aggafx.vercel.app](https://aggafx.vercel.app))*
+- 📫 **Direct Inquiries:** [pancegapp@gmail.com](mailto:pancegapp@gmail.com)
 
 ```yaml
 Architect: Muhamad Yoga Agistian (Agga)
-Location: Sukabumi, West Java, Indonesia
-Core_Disciplines: Application Engineering, Bot Systems Architecture, Autonomous AI Agents
-Official_Registry: aggafx.is-a.dev (Mirror: aggafx.vercel.app)
-Current_Status: ⚔️ Actively Engineering (Productivity Systems & Autonomous Workflows)
+Specializations: Application Engineering, High-Throughput Automata, Autonomous Agent Pipelines
+Sanctum: Sukabumi, West Java, Indonesia
+Registry: aggafx.is-a.dev • aggafx.vercel.app
+Status: ⚔️ Actively Shipping & Engineering
+```
+
+<div align="center">
+  <img src="./assets/medieval-divider.svg" width="100%" />
+</div>
+
+<br/>
+
+## 💼 Core Disciplines & What I Do
+
+```
+┌───────────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│  🤖 High-Throughput Bots      │  🛡️ Productivity Applications │  🧠 Agentic AI & Workflows    │
+├───────────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ • Raw WebSocket Baileys socket│ • Distraction-shield engines  │ • Multi-turn tool harnesses   │
+│ • Finite-state game machines  │ • Cognitive focus intervals   │ • Prompt benchmark evaluation │
+│ • Group mention event routing │ • AI Study Buddy integration  │ • Automated scheduled cron    │
+│ • Discord Guild RPC pipelines │ • Mobile-first ergonomics     │ • Edge serverless pipelines   │
+└───────────────────────────────┴───────────────────────────────┴───────────────────────────────┘
 ```
 
 <div align="center">
@@ -42,27 +70,27 @@ Current_Status: ⚔️ Actively Engineering (Productivity Systems & Autonomous W
 
 ## 📜 The Grand Codex • Featured Engineering Works
 
-Every system documented below is backed by verified architectural implementation, active codebases, and tangible execution:
+Every project documented below represents authentic, working software backed by source code, real-time socket connections, and validated visual proof:
 
 ### 1. 🛡️ Panceg App — *The Sanctum of Cognitive Focus & Study*
-> **Full-Stack Productivity Platform, Smart Task Blocker, & Adaptive AI Study Companion**
+> **Full-Stack Productivity Platform, Intelligent Task Blocker, & Adaptive AI Study Companion**
 
-* **Mission:** Designed to eliminate modern digital friction and cognitive overload through intelligent task scheduling, adaptive focus sessions, and guided study companions.
-* **Key Architecture & Features:**
-  * **AI Study Buddy:** Context-aware interactive assistant providing guided summarization, active-recall examination drills, and intelligent study pacing.
-  * **Smart Task Blocker:** Adaptive distraction shield built around user-defined deep work intervals.
-  * **Ergonomic Dark Parchment UI:** High-fidelity, mobile-first responsive interface tailored for prolonged cognitive sessions.
-* **Tech Stack & Deployment:** `TypeScript`, `Node.js`, `Express`, `Tailwind CSS`, `Replit Runtime`, `Vercel Edge`.
+* **Problem Solved:** Modern digital interfaces cause severe attention fragmentation. Panceg acts as a cognitive defense platform that shields productive flow states while integrating active AI guidance.
+* **Engineering Highlights:**
+  * **AI Study Buddy:** Contextual assistant offering structured summarization, active-recall drills, and study cadence orchestration.
+  * **Smart Blocker & Interval Defense:** Adaptive habit protector structured around focused work intervals.
+  * **Parchment Dark Architecture:** High-contrast ergonomic UI designed for sustained cognitive load.
+* **Technical Stack:** `TypeScript`, `Node.js`, `Express`, `Tailwind CSS`, `Replit Cloud Forge`, `Vercel Edge`.
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <b>📱 Primary Interface (Focus Sanctum)</b><br/><br/>
+        <b>📱 Focus Sanctum — Primary Application Dashboard</b><br/><br/>
         <img src="./assets/proof/panceg-home.jpg" alt="Panceg Home App" width="100%" style="border-radius: 8px; border: 1px solid #D4AF37;" />
       </td>
       <td width="50%" align="center">
-        <b>🧠 Cognitive Assistant (AI Study Buddy)</b><br/><br/>
+        <b>🧠 AI Study Buddy — Context-Aware Guidance Dialog</b><br/><br/>
         <img src="./assets/proof/panceg-ai.jpg" alt="Panceg AI Study Buddy" width="100%" style="border-radius: 8px; border: 1px solid #D4AF37;" />
       </td>
     </tr>
@@ -72,14 +100,14 @@ Every system documented below is backed by verified architectural implementation
 ---
 
 ### 2. 🔮 The WhatsApp Oracle — *Interactive Quiz & Mystery Automaton*
-> **High-Throughput Community Bot Engine for Group Interaction, Stateful Quizzes & Logic Mysteries**
+> **High-Concurrency Community Bot Engine for Group Interaction, Stateful Quizzes & Logic Mysteries**
 
-* **Mission:** Built directly atop raw WebSocket protocols to deliver instantaneous, zero-overhead group automation without relying on heavy headless browser instances.
-* **Key Architecture & Features:**
-  * **High-Speed Mention Engine:** Low-latency group mention parser that delivers context-aware responses and game triggers.
-  * **Stateful Quiz & Mystery Core:** Real-time scoring state machine, sequential multi-round trivia, logic puzzles, and competitive group leaderboards.
-  * **Anti-Spam & Rate-Limiting Armor:** Traffic throttling and queue management to guarantee session persistence and prevent socket disconnects.
-* **Tech Stack & Deployment:** `TypeScript`, `Node.js`, `Baileys WebSocket Protocol`, `Finite-State Machine Architecture`.
+* **Problem Solved:** Running automated group bots via heavy headless Chromium browsers leads to massive memory usage and frequent bans. Built directly on raw WebSocket socket connections for near-zero latency and minimal server footprint.
+* **Engineering Highlights:**
+  * **High-Speed Group Mention Engine:** Instant trigger and NLP parsing when summoned inside active WhatsApp groups.
+  * **Finite-State Machine Quiz Master:** Multi-round sequential trivia, stateful leaderboards, point accumulation, and interactive logic mysteries.
+  * **Session Persistence & Anti-Ban Throttling:** Packet rate-limiting and message queueing to safeguard numbers and ensure 24/7 uptime.
+* **Technical Stack:** `TypeScript`, `Node.js`, `Baileys WebSocket Protocol`, `State-Machine Engine`.
 
 <div align="center">
   <b>⚡ Operational Flow • Interactive Quiz & Community Automation Engine</b><br/><br/>
@@ -91,11 +119,11 @@ Every system documented below is backed by verified architectural implementation
 ### 3. ⚔️ AGGA Discord Automaton & Custom Rich Presence
 > **Guild Infrastructure Automaton, Modular Command Dispatcher & Real-Time RPC Engine**
 
-* **Mission:** Comprehensive management automaton powering the *"The History Round Table"* Discord ecosystem, unified with custom Rich Presence (RPC) dispatching dynamic player status.
-* **Key Architecture & Features:**
-  * **Modular Command Registry:** Dynamic command loader managing administrative automations, server utilities, and automated event handlers.
-  * **Custom Rich Presence (RPC):** Custom Discord client pipeline rendering real-time game status and activity telemetry on user profiles.
-* **Tech Stack & Deployment:** `Python`, `Discord.py`, `Discord Gateway API`, `JSON State Persistence`.
+* **Problem Solved:** Providing automated administrative control and immersive telemetry for *"The History Round Table"* Discord community.
+* **Engineering Highlights:**
+  * **Modular Command Loader:** Decoupled handler allowing dynamic command registration without restarting the bot gateway.
+  * **Custom Rich Presence (RPC):** Custom Discord gateway telemetry broadcasting live player activity, system metrics, and server status.
+* **Technical Stack:** `Python`, `Discord.py`, `Discord Gateway API`, `JSON State Persistence`.
 
 <div align="center">
   <table>
@@ -118,9 +146,9 @@ Every system documented below is backed by verified architectural implementation
 
 <br/>
 
-## 🤖 The Alchemical AI Engines & Agentic Platforms
+## 🤖 AI Engines, Autonomous Agents & Cloud Platforms
 
-Modern engineering requires orchestrating cutting-edge **Autonomous AI Agents**, cloud sandboxes, and rigorous model benchmarking environments:
+Modern product development requires the deliberate orchestration of autonomous engineering agents, cloud sandboxes, and empirical model benchmarks:
 
 | Order & Platform | Architectural Role & Tangible Implementation |
 | :--- | :--- |
@@ -136,15 +164,15 @@ Modern engineering requires orchestrating cutting-edge **Autonomous AI Agents**,
 
 <br/>
 
-## ⚔️ Armory of the Craft • Technical Repertoire
+## ⚔️ Technical Armory • Languages & Tools
 
 ```text
  ╔═══════════════════════════════════════════════════════════════════════════════════════╗
- ║  LANGUAGES & LOGIC   : TypeScript • Python • JavaScript • Modern HTML5/CSS • SQL     ║
- ║  FRAMEWORKS & LIBS   : Node.js • Express • Tailwind CSS • Baileys Socket • Discord.py ║
- ║  BOT ARCHITECTURES   : Event-Driven Sockets • Webhook Pipelines • Rich Presence (RPC) ║
- ║  INFRA & DEPLOYMENT  : Vercel • Replit • Linux Cloud Sandboxes • Git Automation       ║
- ║  VISUAL & HARDWARE   : Mobile Hardware Diagnostics • Vector Assets • UI Ergonomics   ║
+ ║  LANGUAGES & RUNTIMES : TypeScript • Python • JavaScript • Node.js • Modern HTML5/CSS ║
+ ║  FRAMEWORKS & LIBRARIES: Express.js • Tailwind CSS • Baileys Protocol • Discord.py    ║
+ ║  SYSTEMS & PROTOCOLS  : Event-Driven Sockets • Webhook Handlers • Discord Gateway RPC ║
+ ║  INFRA & DEPLOYMENTS  : Vercel Edge • Replit Cloud • Linux Ephemeral Sandboxes • Git  ║
+ ║  CRAFT & HARDWARE     : Mobile Hardware Diagnostics • Vector Artwork • UI Ergonomics  ║
  ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -164,13 +192,30 @@ Modern engineering requires orchestrating cutting-edge **Autonomous AI Agents**,
 
 <br/>
 
-## 🛡️ The Proof-of-Work Vault • Artifacts & Verification
+## 📊 Telemetry & Engineering Metrics
 
-Every milestone showcased here is grounded in actual commits, verified architectures, and live demonstrations:
+<div align="center">
 
-| Index | Artifact / System | Domain & Scope | Source / Verification Link |
+<img src="https://github-readme-stats.vercel.app/api?username=SYAICENCORTEX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=E2542C&text_color=E8D5B5" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYAICENCORTEX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E8D5B5" alt="Top Languages" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SYAICENCORTEX&theme=tokyonight&hide_border=true&background=0D1117&stroke=D4AF37&ring=E2542C&fire=E2542C&currStreakNum=D4AF37&sideNums=E8D5B5&sideLabels=A0B0BC" alt="GitHub Streak" width="85%" />
+
+</div>
+
+<div align="center">
+  <img src="./assets/medieval-divider.svg" width="100%" />
+</div>
+
+<br/>
+
+## 🛡️ The Proof-of-Work Vault • Verified Milestones
+
+| Index | Artifact / System | Domain & Scope | Verified Proof Link |
 | :-: | :--- | :--- | :--- |
-| **01** | **Panceg App Core** | Full-Stack Productivity Suite | [Review Documentation & Visuals](#1-️-panceg-app--the-sanctum-of-cognitive-focus--study) • `Panceg-FIX--PERBAIKAN-` |
+| **01** | **Panceg App Core** | Full-Stack Productivity Platform | [Review Documentation & Visuals](#1-️-panceg-app--the-sanctum-of-cognitive-focus--study) • `Panceg-FIX--PERBAIKAN-` |
 | **02** | **WhatsApp Quiz Oracle** | WebSocket Bot & State Engine | [Review Operational Architecture](#2--the-whatsapp-oracle--interactive-quiz--mystery-automaton) • `Bot-whatsapp` |
 | **03** | **AGGA Discord Bot & RPC** | Python Community Automaton | [Review Guild Command Dispatcher](#3-️-agga-discord-automaton--custom-rich-presence) • `Discord-bot-AGGA` |
 | **04** | **Official Web Portal** | Production Portfolio & Live Showcase | [Visit aggafx.is-a.dev](https://aggafx.is-a.dev) *(Mirror: [aggafx.vercel.app](https://aggafx.vercel.app))* |

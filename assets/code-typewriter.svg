@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 110" width="100%" height="110">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151C22" />
+      <stop offset="100%" stop-color="#0E1317" />
+    </linearGradient>
+    <linearGradient id="goldBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#AA820A" />
+      <stop offset="50%" stop-color="#F9E29D" />
+      <stop offset="100%" stop-color="#AA820A" />
+    </linearGradient>
+  </defs>
+  
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&amp;family=Cinzel:wght@600&amp;display=swap');
+    
+    .console-bg {
+      fill: url(#cardGrad);
+      stroke: url(#goldBorder);
+      stroke-width: 1.2;
+      rx: 10px;
+    }
+    .prompt-lbl {
+      font-family: 'Cinzel', Georgia, serif;
+      font-size: 11.5px;
+      letter-spacing: 2px;
+      fill: #D4AF37;
+    }
+    .code-text {
+      font-family: 'Fira Code', monospace, Consolas, sans-serif;
+      font-size: 13.5px;
+      fill: #E2E8F0;
+    }
+    .keyword { fill: #F0714D; font-weight: 600; }
+    .fn { fill: #38BDF8; }
+    .str { fill: #34D399; }
+    .cursor {
+      animation: blink 1s step-end infinite;
+      fill: #F9E29D;
+    }
+    @keyframes blink {
+      from, to { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .dot-red { fill: #EF4444; }
+    .dot-yellow { fill: #F59E0B; }
+    .dot-green { fill: #10B981; }
+  </style>
+
+  <!-- Console Window Box -->
+  <rect x="2" y="2" width="846" height="106" class="console-bg" />
+  
+  <!-- Window Header Bar -->
+  <line x1="2" y1="28" x2="848" y2="28" stroke="#222C35" stroke-width="1" />
+  
+  <!-- Window Action Dots -->
+  <circle cx="20" cy="15" r="4.5" class="dot-red" />
+  <circle cx="36" cy="15" r="4.5" class="dot-yellow" />
+  <circle cx="52" cy="15" r="4.5" class="dot-green" />
+  <text x="425" y="19" text-anchor="middle" class="prompt-lbl">ARCHIVUM // AUTONOMOUS WORKFLOW RUNTIME</text>
+
+  <!-- Code Line 1 -->
+  <g transform="translate(24, 54)">
+    <text class="code-text">
+      <tspan class="keyword">const</tspan> <tspan class="fn">architect</tspan> = <tspan class="keyword">new</tspan> <tspan class="fn">ApplicationEngineer</tspan>({ <tspan fill="#94A3B8">name:</tspan> <tspan class="str">"Muhamad Yoga Agistian (Agga)"</tspan> });
+    </text>
+  </g>
+
+  <!-- Code Line 2 with Blinking Cursor -->
+  <g transform="translate(24, 84)">
+    <text class="code-text">
+      <tspan class="keyword">await</tspan> <tspan class="fn">architect</tspan>.<tspan class="fn">forge</tspan>([ <tspan class="str">"Productivity Suites"</tspan>, <tspan class="str">"WebSocket Automata"</tspan>, <tspan class="str">"Autonomous AI Agents"</tspan> ]);
+    </text>
+    <rect x="806" y="70" width="8" height="16" class="cursor" />
+  </g>
+</svg>
