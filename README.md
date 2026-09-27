@@ -5,13 +5,13 @@
 <br/>
 
 [![Codex Live](https://img.shields.io/badge/🏛️_Grand_Codex-aggafx.is--a.dev-D4AF37?style=for-the-badge&labelColor=0E1317)](https://aggafx.is-a.dev)
-[![WhatsApp Dispatch](https://img.shields.io/badge/📜_WhatsApp_Scroll-+62_831--5132--9822-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0E1317)](https://wa.me/6283151329822)
-[![Discord Round Table](https://img.shields.io/badge/⚔️_Round_Table-Discord_Guild-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0E1317)](https://discord.gg/qU4cTcKJp)
-[![Raven Inscribed](https://img.shields.io/badge/✉️_Raven_Post-pancegapp@gmail.com-E2542C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0E1317)](mailto:pancegapp@gmail.com)
+[![Discord Round Table](https://img.shields.io/badge/⚔️_Guild_Sanctum-Discord_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0E1317)](https://discord.gg/qU4cTcKJp)
+[![Raven Inscribed](https://img.shields.io/badge/✉️_Direct_Inquiry-pancegapp@gmail.com-E2542C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0E1317)](mailto:pancegapp@gmail.com)
+[![Visual Chronicler](https://img.shields.io/badge/📸_Visual_Archive-@agga.fx-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0E1317)](https://instagram.com/agga.fx)
 
 <p align="center">
   <em>« Verba volant, scripta manent. In codice veritas. »</em><br/>
-  <b>Selamat datang di Sanctum SYAICEN CORTEX</b> — Arsip digital rekayasa perangkat lunak, bot interaktif, dan orkestrasi Autonomous AI.
+  <b>Welcome to the Sanctum of SYAICEN CORTEX</b> — The digital archive of application engineering, autonomous automata, and multi-protocol agent systems.
 </p>
 
 <img src="./assets/medieval-divider.svg" width="100%" />
@@ -20,18 +20,18 @@
 
 <br/>
 
-## ⚜️ Prolegomena • Tentang Sang Arsitek
+## ⚜️ Prolegomena • The Architect's Chronicle
 
-> *"Di masa lalu, seorang alkemis mengubah logam biasa menjadi emas di atas perkamen berdebu. Hari ini, kami merangkai logika, event loop, dan kecerdasan artifisial menjadi artefak digital yang hidup."*
+> *"In eras past, master alchemists transformed base elements into gold upon aged vellum. Today, we forge event loops, socket streams, and autonomous intelligence into resilient digital architecture."*
 
-Di balik persona **SYAICEN CORTEX** berdiri **Muhamad Yoga Agistian (Agga)** — seorang *Application & Bot Developer* serta *Hardware Diagnostician* asal Sukabumi, Jawa Barat. Berfokus pada perakitan bot multi-protokol (WhatsApp & Discord), aplikasi produktivitas berbasis neuro-fokus, integrasi antarmuka modern, dan orkestrasi AI Agents generasi mutakhir.
+Behind **SYAICEN CORTEX** operates **Muhamad Yoga Agistian (Agga)** — an *Application & Bot Systems Engineer* and *Hardware Diagnostician* based in Sukabumi, Indonesia. Specializing in high-concurrency bot infrastructure (WhatsApp & Discord protocols), cognitive productivity suites, modular web architectures, and state-of-the-art Autonomous AI agent orchestration.
 
 ```yaml
 Architect: Muhamad Yoga Agistian (Agga)
-Sanctum: Sukabumi, West Java, Indonesia
-Guild_Specialty: Application Development, Automated Bot Engines, AI Integrations, Hardware Visuals
-Official_Registry: aggafx.is-a.dev | aggafx.vercel.app
-Status: ⚔️ Active on Forge (Building autonomous agents & productivity suites)
+Location: Sukabumi, West Java, Indonesia
+Core_Disciplines: Application Engineering, Bot Systems Architecture, Autonomous AI Agents
+Official_Registry: aggafx.is-a.dev (Mirror: aggafx.vercel.app)
+Current_Status: ⚔️ Actively Engineering (Productivity Systems & Autonomous Workflows)
 ```
 
 <div align="center">
@@ -42,27 +42,27 @@ Status: ⚔️ Active on Forge (Building autonomous agents & productivity suites
 
 ## 📜 The Grand Codex • Featured Engineering Works
 
-Berikut adalah proyek-proyek utama yang telah dibangun, diuji, dan dijalankan dengan pembuktian teknis nyata:
+Every system documented below is backed by verified architectural implementation, active codebases, and tangible execution:
 
-### 1. 🛡️ Panceg App — *The Sanctum of Focus & Study*
-> **Aplikasi Produktivitas, Smart Task Blocker, & AI Study Companion**
+### 1. 🛡️ Panceg App — *The Sanctum of Cognitive Focus & Study*
+> **Full-Stack Productivity Platform, Smart Task Blocker, & Adaptive AI Study Companion**
 
-* **Esensi:** Dirancang untuk memecah kebisingan digital dan distraksi modern melalui sistem pemblokir tugas terstruktur, timer fokus, dan pendamping belajar pintar.
-* **Fitur Mahakarya:**
-  * **AI Study Buddy:** Dialog interaktif terpandu untuk meringkas materi, tanya-jawab materi ujian, dan penjadwalan sesi belajar.
-  * **Smart Blocker & Habit Shield:** Proteksi waktu produktif pengguna dengan algoritma fokus adaptif.
-  * **Parchment Dark Interface:** Antarmuka responsif mobile-first berbalut tema visual ergonomis.
-* **Tech Stack & Forge:** `TypeScript`, `Node.js`, `Express`, `Tailwind CSS`, `Replit Runtime`, `Vercel Edge`.
+* **Mission:** Designed to eliminate modern digital friction and cognitive overload through intelligent task scheduling, adaptive focus sessions, and guided study companions.
+* **Key Architecture & Features:**
+  * **AI Study Buddy:** Context-aware interactive assistant providing guided summarization, active-recall examination drills, and intelligent study pacing.
+  * **Smart Task Blocker:** Adaptive distraction shield built around user-defined deep work intervals.
+  * **Ergonomic Dark Parchment UI:** High-fidelity, mobile-first responsive interface tailored for prolonged cognitive sessions.
+* **Tech Stack & Deployment:** `TypeScript`, `Node.js`, `Express`, `Tailwind CSS`, `Replit Runtime`, `Vercel Edge`.
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <b>📱 Antarmuka Utama Panceg (Focus Sanctum)</b><br/><br/>
+        <b>📱 Primary Interface (Focus Sanctum)</b><br/><br/>
         <img src="./assets/proof/panceg-home.jpg" alt="Panceg Home App" width="100%" style="border-radius: 8px; border: 1px solid #D4AF37;" />
       </td>
       <td width="50%" align="center">
-        <b>🧠 Asisten Cerdas (AI Study Buddy)</b><br/><br/>
+        <b>🧠 Cognitive Assistant (AI Study Buddy)</b><br/><br/>
         <img src="./assets/proof/panceg-ai.jpg" alt="Panceg AI Study Buddy" width="100%" style="border-radius: 8px; border: 1px solid #D4AF37;" />
       </td>
     </tr>
@@ -71,41 +71,41 @@ Berikut adalah proyek-proyek utama yang telah dibangun, diuji, dan dijalankan de
 
 ---
 
-### 2. 🔮 The WhatsApp Oracle — *Interactive Quiz & Mystery Bot*
-> **Bot Komunitas Otomatis untuk Percakapan Grup, Kuis Beruntun & Game Misteri**
+### 2. 🔮 The WhatsApp Oracle — *Interactive Quiz & Mystery Automaton*
+> **High-Throughput Community Bot Engine for Group Interaction, Stateful Quizzes & Logic Mysteries**
 
-* **Esensi:** Bot cerdas WhatsApp yang mampu menangani ratusan interaksi grup simultan tanpa dependensi browser berat, dirancang langsung di atas socket Baileys.
-* **Fitur Mahakarya:**
-  * **Interactive Mention Engine:** Menjawab panggilan grup secara instan saat di-mention dengan parsing konteks cepat.
-  * **Quiz & Mystery Game Master:** Mesin kuis real-time, pertempuran skor leaderboard anggota, teka-teki logika, dan petualangan interaktif berbasis teks.
-  * **Anti-Spam & Rate Shield:** Sistem penyeimbang lalu lintas pesan agar sesi tetap stabil dan nomor terlindungi.
-* **Tech Stack & Forge:** `TypeScript`, `Node.js`, `Baileys WebSocket Protocol`, `State-Machine Engine`.
+* **Mission:** Built directly atop raw WebSocket protocols to deliver instantaneous, zero-overhead group automation without relying on heavy headless browser instances.
+* **Key Architecture & Features:**
+  * **High-Speed Mention Engine:** Low-latency group mention parser that delivers context-aware responses and game triggers.
+  * **Stateful Quiz & Mystery Core:** Real-time scoring state machine, sequential multi-round trivia, logic puzzles, and competitive group leaderboards.
+  * **Anti-Spam & Rate-Limiting Armor:** Traffic throttling and queue management to guarantee session persistence and prevent socket disconnects.
+* **Tech Stack & Deployment:** `TypeScript`, `Node.js`, `Baileys WebSocket Protocol`, `Finite-State Machine Architecture`.
 
 <div align="center">
-  <b>⚡ Alur Nyata Interaksi & Sistem Kuis WhatsApp</b><br/><br/>
+  <b>⚡ Operational Flow • Interactive Quiz & Community Automation Engine</b><br/><br/>
   <img src="./assets/proof/waquiz-flow.jpg" alt="WhatsApp Quiz Flow" width="85%" style="border-radius: 8px; border: 1px solid #D4AF37;" />
 </div>
 
 ---
 
-### 3. ⚔️ AGGA Discord Automaton & Custom RPC
-> **Sistem Automasi Guild Discord, Perintah Modular & Rich Presence Profil**
+### 3. ⚔️ AGGA Discord Automaton & Custom Rich Presence
+> **Guild Infrastructure Automaton, Modular Command Dispatcher & Real-Time RPC Engine**
 
-* **Esensi:** Automasi terpadu untuk ekosistem komunitas Discord *"The History Round Table"*, dilengkapi bot administrasi dan kustomisasi Discord Rich Presence (RPC) yang menampilkan aktivitas permainan dinamis.
-* **Fitur Mahakarya:**
-  * **Modular Command Registry:** Manajemen peran anggota, utility server, dan sistem respons terotomasi.
-  * **Custom Rich Presence (RPC):** Menampilkan status game dan aktivitas kustom pada profil Discord secara real-time.
-* **Tech Stack & Forge:** `Python`, `Discord.py`, `Discord Gateway API`, `JSON State Store`.
+* **Mission:** Comprehensive management automaton powering the *"The History Round Table"* Discord ecosystem, unified with custom Rich Presence (RPC) dispatching dynamic player status.
+* **Key Architecture & Features:**
+  * **Modular Command Registry:** Dynamic command loader managing administrative automations, server utilities, and automated event handlers.
+  * **Custom Rich Presence (RPC):** Custom Discord client pipeline rendering real-time game status and activity telemetry on user profiles.
+* **Tech Stack & Deployment:** `Python`, `Discord.py`, `Discord Gateway API`, `JSON State Persistence`.
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <b>🛡️ Profil & Perintah Bot Discord AGGA</b><br/><br/>
+        <b>🛡️ Bot Identity & Modular Command Suite</b><br/><br/>
         <img src="./assets/proof/agga-discord.jpg" alt="Discord Bot AGGA" width="100%" style="border-radius: 8px; border: 1px solid #D4AF37;" />
       </td>
       <td width="50%" align="center">
-        <b>📊 AGGA Command Center & Analytics</b><br/><br/>
+        <b>📊 AGGA Command Center & Analytics Dashboard</b><br/><br/>
         <img src="./assets/proof/agga-dashboard.jpg" alt="AGGA Command Center" width="100%" style="border-radius: 8px; border: 1px solid #D4AF37;" />
       </td>
     </tr>
@@ -120,15 +120,15 @@ Berikut adalah proyek-proyek utama yang telah dibangun, diuji, dan dijalankan de
 
 ## 🤖 The Alchemical AI Engines & Agentic Platforms
 
-Dalam mengeksekusi proyek modern, kami tidak bekerja sendirian secara konvensional, melainkan mengorkestrasi ekosistem **Autonomous AI Agents**, akselerator kode, dan platform benchmarking kelas dunia:
+Modern engineering requires orchestrating cutting-edge **Autonomous AI Agents**, cloud sandboxes, and rigorous model benchmarking environments:
 
-| Ordo / Platform | Peran & Implementasi Nyata dalam Pengerjaan |
+| Order & Platform | Architectural Role & Tangible Implementation |
 | :--- | :--- |
-| <img src="https://img.shields.io/badge/Skydive.com-0E1317?style=flat&logo=skydive&logoColor=D4AF37" height="22" /> **[Skydive.com](https://skydive.com)** | **Agent Runtime & Background Worker:** Menjalankan autonomous engineer agents, multi-turn tool harnesses, cron workflows otomatis, dan pengelolaan sandbox cloud terisolasi. |
-| <img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white" height="22" /> **[Replit](https://replit.com)** | **Cloud Forge & Prototyping:** Pengembangan langsung backend bot, task blocker engine, dan deployment container cepat 24/7. |
-| <img src="https://img.shields.io/badge/Lovable.dev-8B5CF6?style=flat&logo=react&logoColor=white" height="22" /> **[Lovable.dev](https://lovable.dev)** | **Full-Stack UI Acceleration:** Prototyping antarmuka web modern berkecepatan tinggi, integrasi komponen reaktif, dan scaffolding frontend. |
-| <img src="https://img.shields.io/badge/Arena.ai_(LMSYS)-FF6F00?style=flat&logo=googlecloud&logoColor=white" height="22" /> **[Arena.ai (LMSYS)](https://chat.lmsys.org)** | **Model Evaluation & Prompt Benchmarking:** Pengujian model LLM mutakhir (Gemini, Claude, GPT, DeepSeek) untuk memilih performa terbaik pada bot dan asisten kuis. |
-| <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="22" /> **[Vercel Edge](https://vercel.com)** | **Global Delivery & CDN:** Hosting serverless domain utama portofolio dan distribusi aset berlatensi rendah. |
+| <img src="https://img.shields.io/badge/Skydive.com-0E1317?style=flat&logo=skydive&logoColor=D4AF37" height="22" /> **[Skydive.com](https://skydive.com)** | **Agent Runtime & Autonomous Harness:** Orchestrating cloud sandboxes, multi-turn AI tool execution, scheduled background routines, and autonomous engineering workflows. |
+| <img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white" height="22" /> **[Replit](https://replit.com)** | **Cloud Forge & Continuous Deployment:** Rapid prototyping environment, containerized backend hosting, and 24/7 runtime execution for bot services. |
+| <img src="https://img.shields.io/badge/Lovable.dev-8B5CF6?style=flat&logo=react&logoColor=white" height="22" /> **[Lovable.dev](https://lovable.dev)** | **Full-Stack Prototyping Accelerator:** High-velocity full-stack UI scaffolding, reactive component synthesis, and layout ergonomics. |
+| <img src="https://img.shields.io/badge/Arena.ai_(LMSYS)-FF6F00?style=flat&logo=googlecloud&logoColor=white" height="22" /> **[Arena.ai (LMSYS)](https://chat.lmsys.org)** | **LLM Benchmarking & Prompt Evaluation:** Head-to-head empirical model evaluation (Claude, Gemini, GPT, DeepSeek) to optimize latency and reasoning quality for agent prompts. |
+| <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="22" /> **[Vercel Edge](https://vercel.com)** | **Edge Infrastructure & CDN:** Serverless deployment pipeline powering global distribution and zero-latency delivery for production web assets. |
 
 <div align="center">
   <img src="./assets/medieval-divider.svg" width="100%" />
@@ -136,15 +136,15 @@ Dalam mengeksekusi proyek modern, kami tidak bekerja sendirian secara konvension
 
 <br/>
 
-## ⚔️ Armory of the Craft • Tech Stack & Weapons
+## ⚔️ Armory of the Craft • Technical Repertoire
 
 ```text
  ╔═══════════════════════════════════════════════════════════════════════════════════════╗
  ║  LANGUAGES & LOGIC   : TypeScript • Python • JavaScript • Modern HTML5/CSS • SQL     ║
  ║  FRAMEWORKS & LIBS   : Node.js • Express • Tailwind CSS • Baileys Socket • Discord.py ║
- ║  BOT ARCHITECTURE    : Event-Driven Sockets • Webhook Receivers • RPC Clients         ║
- ║  INFRA & DEPLOYMENT  : Vercel • Replit • Linux Cloud Sandboxes • Git / GitHub Actions  ║
- ║  VISUAL & HARDWARE   : Mobile Hardware Diagnostics • Vector Artwork • UI Ergonomics   ║
+ ║  BOT ARCHITECTURES   : Event-Driven Sockets • Webhook Pipelines • Rich Presence (RPC) ║
+ ║  INFRA & DEPLOYMENT  : Vercel • Replit • Linux Cloud Sandboxes • Git Automation       ║
+ ║  VISUAL & HARDWARE   : Mobile Hardware Diagnostics • Vector Assets • UI Ergonomics   ║
  ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -153,9 +153,9 @@ Dalam mengeksekusi proyek modern, kami tidak bekerja sendirian secara konvension
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
-  <img src="https://img.shields.io/badge/WhatsApp_Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys" />
-  <img src="https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
+  <img src="https://img.shields.io/badge/WebSocket_Engine-25D366?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Linux_Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 <div align="center">
@@ -164,17 +164,17 @@ Dalam mengeksekusi proyek modern, kami tidak bekerja sendirian secara konvension
 
 <br/>
 
-## 🛡️ The Proof-of-Work Vault • Repositori & Bukti Nyata
+## 🛡️ The Proof-of-Work Vault • Artifacts & Verification
 
-Semua pencapaian di atas dibangun atas dasar rekayasa nyata tanpa angka palsu:
+Every milestone showcased here is grounded in actual commits, verified architectures, and live demonstrations:
 
-| No | Artefak Proyek | Sifat & Peran | Bukti Nyata / Tautan |
+| Index | Artifact / System | Domain & Scope | Source / Verification Link |
 | :-: | :--- | :--- | :--- |
-| **01** | **Panceg App Core** | Full-Stack Productivity | [Tinjau Dokumentasi & Screenshot](#1-️-panceg-app--the-sanctum-of-focus--study) • `Panceg-FIX--PERBAIKAN-` |
-| **02** | **The WhatsApp Quiz Oracle** | Socket Bot & Game Engine | [Tinjau Alur Kuis Interaktif](#2--the-whatsapp-oracle--interactive-quiz--mystery-bot) • `Bot-whatsapp` |
-| **03** | **AGGA Discord Bot & RPC** | Python Community Automaton | [Tinjau Tampilan Bot & Guild](#3-️-agga-discord-automaton--custom-rpc) • `Discord-bot-AGGA` |
-| **04** | **Official Codex Website** | Live Interactive Portfolio | [Kunjungi aggafx.is-a.dev](https://aggafx.is-a.dev) *(Mirror: [aggafx.vercel.app](https://aggafx.vercel.app))* |
-| **05** | **Subdomain Registrar** | DNS & Open Source Contrib | Terverifikasi di `is-a.dev` Registry (`register`) |
+| **01** | **Panceg App Core** | Full-Stack Productivity Suite | [Review Documentation & Visuals](#1-️-panceg-app--the-sanctum-of-cognitive-focus--study) • `Panceg-FIX--PERBAIKAN-` |
+| **02** | **WhatsApp Quiz Oracle** | WebSocket Bot & State Engine | [Review Operational Architecture](#2--the-whatsapp-oracle--interactive-quiz--mystery-automaton) • `Bot-whatsapp` |
+| **03** | **AGGA Discord Bot & RPC** | Python Community Automaton | [Review Guild Command Dispatcher](#3-️-agga-discord-automaton--custom-rich-presence) • `Discord-bot-AGGA` |
+| **04** | **Official Web Portal** | Production Portfolio & Live Showcase | [Visit aggafx.is-a.dev](https://aggafx.is-a.dev) *(Mirror: [aggafx.vercel.app](https://aggafx.vercel.app))* |
+| **05** | **Subdomain Registrar** | DNS Protocol & Open-Source Contrib | Verified Registry at `is-a.dev` (`register`) |
 
 <div align="center">
   <img src="./assets/medieval-divider.svg" width="100%" />
@@ -182,24 +182,27 @@ Semua pencapaian di atas dibangun atas dasar rekayasa nyata tanpa angka palsu:
 
 <br/>
 
-## 📬 The Heraldry Portal • Kirim Pesan & Hubungi Kami
+## 📬 The Heraldry Portal • Official Channels & Inquiries
 
-Pintu sanctum selalu terbuka untuk kolaborasi pembuatan bot otomatis, perancangan aplikasi produktivitas, atau eksplorasi integrasi AI agents:
+The sanctum's gates remain open for engineering inquiries, bot architecture consultations, and collaborative agent workflows:
 
 <div align="center">
 
-| Saluran Komunikasi | Alamat & Tautan Cepat | Deskripsi |
+| Channel | Destination / Inscription | Scope of Discussion |
 | :--- | :--- | :--- |
-| 🟢 **WhatsApp Messenger** | [**+62 831-5132-9822**](https://wa.me/6283151329822) | Jalur komunikasi cepat & konsultasi bot |
-| 🟣 **Discord Guild** | [**The History Round Table**](https://discord.gg/qU4cTcKJp) | Markas komunitas & pengujian bot interaktif |
-| ✉️ **Electronic Raven (Email)** | [**pancegapp@gmail.com**](mailto:pancegapp@gmail.com) | Pertanyaan resmi, kolaborasi & penawaran kerja |
-| 📸 **Instagram Visuals** | [**@agga.fx**](https://instagram.com/agga.fx) | Arsip estetika, visual, dan hardware repair |
-| 🏛️ **Website Portofolio** | [**aggafx.is-a.dev**](https://aggafx.is-a.dev) | Portofolio lengkap, ringkasan CV, dan demo interaktif |
+| ✉️ **Electronic Raven (Email)** | [**pancegapp@gmail.com**](mailto:pancegapp@gmail.com) | Professional inquiries, architectural contracts, and formal proposals |
+| 🟣 **Discord Guild** | [**The History Round Table**](https://discord.gg/qU4cTcKJp) | Interactive community sanctuary, bot trials, and technical dialogue |
+| 📸 **Visual Portfolio** | [**@agga.fx**](https://instagram.com/agga.fx) | UI design curation, visual assets, and hardware diagnostics showcase |
+| 🏛️ **Official Web Codex** | [**aggafx.is-a.dev**](https://aggafx.is-a.dev) | Interactive live portfolio, comprehensive resume, and deployment hub |
+
+<br/>
+
+> *Note: Direct messaging via instant messengers is accessible upon formal request via email or the official web portal.*
 
 <br/>
 
 ```
-      ⚔️  SYAICEN CORTEX  •  CRAFTED WITH INTELLECT, CODE & ALCHEMY  ⚔️
+      ⚔️  SYAICEN CORTEX  •  FORGED WITH INTELLECT, CODE & ALCHEMY  ⚔️
 ```
 
 <img src="./assets/medieval-divider.svg" width="100%" />
