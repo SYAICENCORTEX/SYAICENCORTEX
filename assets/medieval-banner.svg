@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" height="100%">
+  <defs>
+    <!-- Dark Parchment Background -->
+    <radialGradient id="parchmentBg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#191F26" />
+      <stop offset="60%" stop-color="#0E1317" />
+      <stop offset="100%" stop-color="#070A0D" />
+    </radialGradient>
+
+    <!-- Antique Gold Gradient -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F9E29D" />
+      <stop offset="25%" stop-color="#D4AF37" />
+      <stop offset="60%" stop-color="#AA820A" />
+      <stop offset="85%" stop-color="#E5C158" />
+      <stop offset="100%" stop-color="#996515" />
+    </linearGradient>
+
+    <!-- Subtle Gold Line -->
+    <linearGradient id="goldHori" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0" />
+      <stop offset="20%" stop-color="#D4AF37" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#FFF3C4" stop-opacity="1" />
+      <stop offset="80%" stop-color="#D4AF37" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Crimson Seal Gradient -->
+    <linearGradient id="sealGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C53030" />
+      <stop offset="50%" stop-color="#7B1113" />
+      <stop offset="100%" stop-color="#4A0607" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&amp;family=Cinzel+Decorative:wght@700&amp;family=Cormorant+Garamond:ital,wght@1,500;1,600&amp;family=Space+Grotesk:wght@400;600&amp;display=swap');
+    .title {
+      font-family: 'Cinzel Decorative', 'Cinzel', 'Trajan Pro', Georgia, serif;
+      font-weight: 700;
+      letter-spacing: 7px;
+      fill: url(#goldGrad);
+    }
+    .motto {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-style: italic;
+      font-size: 15px;
+      letter-spacing: 3px;
+      fill: #E8D5B5;
+    }
+    .subtitle {
+      font-family: 'Cinzel', Georgia, serif;
+      font-size: 12.5px;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+      fill: #D4AF37;
+    }
+    .meta {
+      font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 12px;
+      letter-spacing: 1.5px;
+      fill: #A0B0BC;
+    }
+    .rune {
+      font-family: Georgia, serif;
+      font-size: 18px;
+      fill: #D4AF37;
+    }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect x="0" y="0" width="900" height="320" rx="16" fill="url(#parchmentBg)" stroke="#222B32" stroke-width="1.5" />
+
+  <!-- Outer Ornate Gold Border -->
+  <rect x="18" y="18" width="864" height="284" rx="10" fill="none" stroke="url(#goldGrad)" stroke-width="2" stroke-opacity="0.85" />
+  <!-- Inner Delicate Inscription Border -->
+  <rect x="25" y="25" width="850" height="270" rx="6" fill="none" stroke="#D4AF37" stroke-width="0.8" stroke-dasharray="8 4" stroke-opacity="0.45" />
+
+  <!-- Corner Medieval Ornaments (Filigree Crosses) -->
+  <!-- Top Left -->
+  <g transform="translate(32, 32)">
+    <path d="M 0,0 L 24,0 M 0,0 L 0,24 M 0,0 L 14,14" stroke="url(#goldGrad)" stroke-width="2" />
+    <circle cx="0" cy="0" r="3" fill="#F9E29D" />
+    <circle cx="16" cy="16" r="2" fill="#D4AF37" />
+    <path d="M 28,0 L 34,-3 L 40,0 L 34,3 Z" fill="url(#goldGrad)" />
+    <path d="M 0,28 L -3,34 L 0,40 L 3,34 Z" fill="url(#goldGrad)" />
+  </g>
+  <!-- Top Right -->
+  <g transform="translate(868, 32)">
+    <path d="M 0,0 L -24,0 M 0,0 L 0,24 M 0,0 L -14,14" stroke="url(#goldGrad)" stroke-width="2" />
+    <circle cx="0" cy="0" r="3" fill="#F9E29D" />
+    <circle cx="-16" cy="16" r="2" fill="#D4AF37" />
+    <path d="M -28,0 L -34,-3 L -40,0 L -34,3 Z" fill="url(#goldGrad)" />
+    <path d="M 0,28 L -3,34 L 0,40 L 3,34 Z" fill="url(#goldGrad)" />
+  </g>
+  <!-- Bottom Left -->
+  <g transform="translate(32, 288)">
+    <path d="M 0,0 L 24,0 M 0,0 L 0,-24 M 0,0 L 14,-14" stroke="url(#goldGrad)" stroke-width="2" />
+    <circle cx="0" cy="0" r="3" fill="#F9E29D" />
+    <circle cx="16" cy="-16" r="2" fill="#D4AF37" />
+    <path d="M 28,0 L 34,-3 L 40,0 L 34,3 Z" fill="url(#goldGrad)" />
+    <path d="M 0,-28 L -3,-34 L 0,-40 L 3,-34 Z" fill="url(#goldGrad)" />
+  </g>
+  <!-- Bottom Right -->
+  <g transform="translate(868, 288)">
+    <path d="M 0,0 L -24,0 M 0,0 L 0,-24 M 0,0 L -14,-14" stroke="url(#goldGrad)" stroke-width="2" />
+    <circle cx="0" cy="0" r="3" fill="#F9E29D" />
+    <circle cx="-16" cy="-16" r="2" fill="#D4AF37" />
+    <path d="M -28,0 L -34,-3 L -40,0 L -34,3 Z" fill="url(#goldGrad)" />
+    <path d="M 0,-28 L -3,-34 L 0,-40 L 3,-34 Z" fill="url(#goldGrad)" />
+  </g>
+
+  <!-- Central Heraldic Shield / Sigil -->
+  <g transform="translate(450, 68)">
+    <!-- Aura Glow -->
+    <circle cx="0" cy="10" r="36" fill="#D4AF37" fill-opacity="0.12" filter="url(#glow)" />
+    
+    <!-- Crossed Swords behind Shield -->
+    <path d="M -26,-16 L 26,36 M -24,-18 L -30,-24 M 24,34 L 30,40" stroke="url(#goldGrad)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M 26,-16 L -26,36 M 24,-18 L 30,-24 M -24,34 L -30,40" stroke="url(#goldGrad)" stroke-width="2.5" stroke-linecap="round" />
+
+    <!-- Medieval Gothic Shield -->
+    <path d="M -24,-14 C -12,-18 12,-18 24,-14 C 24,14 18,34 0,44 C -18,34 -24,14 -24,-14 Z" fill="url(#sealGrad)" stroke="url(#goldGrad)" stroke-width="2.2" />
+    
+    <!-- Heraldic Fleur-de-lis / Crown inside Shield -->
+    <path d="M 0,-6 C -4,-2 -10,0 -8,7 C -7,10 -3,9 -2,7 C -3,13 0,15 0,15 C 0,15 3,13 2,7 C 3,9 7,10 8,7 C 10,0 4,-2 0,-6 Z" fill="url(#goldGrad)" />
+    <circle cx="0" cy="20" r="2" fill="#F9E29D" />
+  </g>
+
+  <!-- Decorative Horizontal Dividing Line -->
+  <line x1="160" y1="134" x2="740" y2="134" stroke="url(#goldHori)" stroke-width="1.5" />
+  <polygon points="450,130 456,134 450,138 444,134" fill="#F9E29D" />
+  <circle cx="340" cy="134" r="3" fill="#D4AF37" />
+  <circle cx="560" cy="134" r="3" fill="#D4AF37" />
+
+  <!-- Main Grand Title -->
+  <text x="450" y="172" text-anchor="middle" class="title" font-size="29">SYAICEN CORTEX</text>
+
+  <!-- Subtitle: The Grand Codex -->
+  <text x="450" y="198" text-anchor="middle" class="subtitle">ARCHIVUM SCRIPTORIS • APPLICATION &amp; BOT ALCHEMIST</text>
+
+  <!-- Latin Inscription Motto -->
+  <text x="450" y="232" text-anchor="middle" class="motto">« EX NIHILO AD CODICEM  •  VERBA VOLANT, SCRIPTA MANENT »</text>
+
+  <!-- Metadata & Location Heraldry Footer -->
+  <g transform="translate(450, 268)">
+    <rect x="-310" y="-14" width="620" height="28" rx="14" fill="#13191F" stroke="#2D3A44" stroke-width="1" />
+    <text x="0" y="4.5" text-anchor="middle" class="meta">
+      <tspan fill="#F0714D">⚔️ ARCHITECT:</tspan> Muhamad Yoga Agistian (Agga)
+      <tspan fill="#AA820A"> │ </tspan>
+      <tspan fill="#D4AF37">🏰 SANCTUM:</tspan> Sukabumi, ID
+      <tspan fill="#AA820A"> │ </tspan>
+      <tspan fill="#2BA02D">⚡ CODEX:</tspan> aggafx.is-a.dev
+    </text>
+  </g>
+</svg>
